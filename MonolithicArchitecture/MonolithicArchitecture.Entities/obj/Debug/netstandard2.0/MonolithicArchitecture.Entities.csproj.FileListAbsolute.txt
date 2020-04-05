@@ -1,0 +1,8 @@
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Entities\bin\Debug\netstandard2.0\MonolithicArchitecture.Entities.deps.json
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Entities\bin\Debug\netstandard2.0\MonolithicArchitecture.Entities.dll
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Entities\bin\Debug\netstandard2.0\MonolithicArchitecture.Entities.pdb
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Entities\obj\Debug\netstandard2.0\MonolithicArchitecture.Entities.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Entities\obj\Debug\netstandard2.0\MonolithicArchitecture.Entities.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Entities\obj\Debug\netstandard2.0\MonolithicArchitecture.Entities.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Entities\obj\Debug\netstandard2.0\MonolithicArchitecture.Entities.dll
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Entities\obj\Debug\netstandard2.0\MonolithicArchitecture.Entities.pdb

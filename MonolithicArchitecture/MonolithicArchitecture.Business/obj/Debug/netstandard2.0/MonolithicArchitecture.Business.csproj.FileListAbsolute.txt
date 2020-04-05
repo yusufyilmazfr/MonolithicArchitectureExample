@@ -1,0 +1,13 @@
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Business.deps.json
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Business.dll
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Business.pdb
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.DataAccess.dll
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Entities.dll
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.DataAccess.pdb
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Entities.pdb
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.csproj.CopyComplete
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.dll
+C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.pdb
