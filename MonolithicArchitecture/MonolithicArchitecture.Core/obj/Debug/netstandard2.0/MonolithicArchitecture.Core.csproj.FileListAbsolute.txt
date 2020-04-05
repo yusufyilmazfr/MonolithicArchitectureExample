@@ -1,0 +1,8 @@
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Core\bin\Debug\netstandard2.0\MonolithicArchitecture.Core.deps.json
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Core\bin\Debug\netstandard2.0\MonolithicArchitecture.Core.dll
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Core\bin\Debug\netstandard2.0\MonolithicArchitecture.Core.pdb
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Core\obj\Debug\netstandard2.0\MonolithicArchitecture.Core.csprojAssemblyReference.cache
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Core\obj\Debug\netstandard2.0\MonolithicArchitecture.Core.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Core\obj\Debug\netstandard2.0\MonolithicArchitecture.Core.AssemblyInfo.cs
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Core\obj\Debug\netstandard2.0\MonolithicArchitecture.Core.dll
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Core\obj\Debug\netstandard2.0\MonolithicArchitecture.Core.pdb

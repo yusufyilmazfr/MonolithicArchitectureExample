@@ -11,3 +11,18 @@ C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Busine
 C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.csproj.CopyComplete
 C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.dll
 C:\Users\Yusuf\source\repos\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.pdb
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Business.deps.json
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Business.dll
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Business.pdb
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Core.dll
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.DataAccess.dll
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Entities.dll
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Core.pdb
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.DataAccess.pdb
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\bin\Debug\netstandard2.0\MonolithicArchitecture.Entities.pdb
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.csprojAssemblyReference.cache
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.AssemblyInfo.cs
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.csproj.CopyComplete
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.dll
+D:\Program Files\GitHub\MonolithicArchitectureExample\MonolithicArchitecture\MonolithicArchitecture.Business\obj\Debug\netstandard2.0\MonolithicArchitecture.Business.pdb

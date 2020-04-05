@@ -2095,6 +2095,7 @@
       },
       "MonolithicArchitecture.Business/1.0.0": {
         "dependencies": {
+          "MonolithicArchitecture.Core": "1.0.0",
           "MonolithicArchitecture.DataAccess": "1.0.0",
           "MonolithicArchitecture.Entities": "1.0.0"
         },
@@ -2103,6 +2104,14 @@
         },
         "compile": {
           "MonolithicArchitecture.Business.dll": {}
+        }
+      },
+      "MonolithicArchitecture.Core/1.0.0": {
+        "runtime": {
+          "MonolithicArchitecture.Core.dll": {}
+        },
+        "compile": {
+          "MonolithicArchitecture.Core.dll": {}
         }
       },
       "MonolithicArchitecture.DataAccess/1.0.0": {
@@ -4818,6 +4827,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "MonolithicArchitecture.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonolithicArchitecture.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

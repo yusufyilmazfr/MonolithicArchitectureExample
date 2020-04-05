@@ -6129,11 +6129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj",
+      "projectUniqueName": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj",
       "projectName": "MonolithicArchitecture.DataAccess",
-      "projectPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj",
+      "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\obj\\",
+      "outputPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6152,8 +6152,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj": {
-              "projectPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj"
+            "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj": {
+              "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj"
             }
           }
         }

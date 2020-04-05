@@ -2486,6 +2486,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "MonolithicArchitecture.Core": "1.0.0",
           "MonolithicArchitecture.DataAccess": "1.0.0",
           "MonolithicArchitecture.Entities": "1.0.0"
         },
@@ -2494,6 +2495,16 @@
         },
         "runtime": {
           "bin/placeholder/MonolithicArchitecture.Business.dll": {}
+        }
+      },
+      "MonolithicArchitecture.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MonolithicArchitecture.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MonolithicArchitecture.Core.dll": {}
         }
       },
       "MonolithicArchitecture.DataAccess/1.0.0": {
@@ -8113,6 +8124,11 @@
       "path": "../MonolithicArchitecture.Business/MonolithicArchitecture.Business.csproj",
       "msbuildProject": "../MonolithicArchitecture.Business/MonolithicArchitecture.Business.csproj"
     },
+    "MonolithicArchitecture.Core/1.0.0": {
+      "type": "project",
+      "path": "../MonolithicArchitecture.Core/MonolithicArchitecture.Core.csproj",
+      "msbuildProject": "../MonolithicArchitecture.Core/MonolithicArchitecture.Core.csproj"
+    },
     "MonolithicArchitecture.DataAccess/1.0.0": {
       "type": "project",
       "path": "../MonolithicArchitecture.DataAccess/MonolithicArchitecture.DataAccess.csproj",
@@ -8137,11 +8153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.WebAPI\\MonolithicArchitecture.WebAPI.csproj",
+      "projectUniqueName": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.WebAPI\\MonolithicArchitecture.WebAPI.csproj",
       "projectName": "MonolithicArchitecture.WebAPI",
-      "projectPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.WebAPI\\MonolithicArchitecture.WebAPI.csproj",
+      "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.WebAPI\\MonolithicArchitecture.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.WebAPI\\obj\\",
+      "outputPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8160,8 +8176,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj": {
-              "projectPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj"
+            "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj": {
+              "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj"
             }
           }
         }

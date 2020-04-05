@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj": {}
+    "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj": {
+    "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj",
+        "projectUniqueName": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj",
         "projectName": "MonolithicArchitecture.Business",
-        "projectPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj",
+        "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Business\\MonolithicArchitecture.Business.csproj",
         "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Business\\obj\\",
+        "outputPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,14 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj"
+              "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Core\\MonolithicArchitecture.Core.csproj": {
+                "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Core\\MonolithicArchitecture.Core.csproj"
               },
-              "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj": {
-                "projectPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj"
+              "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj": {
+                "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj"
+              },
+              "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj": {
+                "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj"
               }
             }
           }
@@ -69,14 +72,72 @@
         }
       }
     },
-    "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj": {
+    "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Core\\MonolithicArchitecture.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj",
-        "projectName": "MonolithicArchitecture.DataAccess",
-        "projectPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj",
+        "projectUniqueName": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Core\\MonolithicArchitecture.Core.csproj",
+        "projectName": "MonolithicArchitecture.Core",
+        "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Core\\MonolithicArchitecture.Core.csproj",
         "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\obj\\",
+        "outputPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj",
+        "projectName": "MonolithicArchitecture.DataAccess",
+        "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\MonolithicArchitecture.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
+        "outputPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,8 +156,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj": {
-                "projectPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj"
+              "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj": {
+                "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj"
               }
             }
           }
@@ -139,14 +200,14 @@
         }
       }
     },
-    "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj": {
+    "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj",
+        "projectUniqueName": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj",
         "projectName": "MonolithicArchitecture.Entities",
-        "projectPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj",
+        "projectPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\MonolithicArchitecture.Entities.csproj",
         "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yusuf\\source\\repos\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\obj\\",
+        "outputPath": "D:\\Program Files\\GitHub\\MonolithicArchitectureExample\\MonolithicArchitecture\\MonolithicArchitecture.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MonolithicArchitecture.Core\MonolithicArchitecture.Core.csproj" />
     <ProjectReference Include="..\MonolithicArchitecture.DataAccess\MonolithicArchitecture.DataAccess.csproj" />
     <ProjectReference Include="..\MonolithicArchitecture.Entities\MonolithicArchitecture.Entities.csproj" />
   </ItemGroup>
