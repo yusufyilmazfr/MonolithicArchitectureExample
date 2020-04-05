@@ -1,4 +1,5 @@
 ﻿using MonolithicArchitecture.Business.Abstract;
+using MonolithicArchitecture.Core.Transaction;
 using MonolithicArchitecture.DataAccess.Abstract;
 using MonolithicArchitecture.Entities;
 using System;
@@ -31,6 +32,15 @@ namespace MonolithicArchitecture.Business.Concrete
         public List<Category> GetList()
         {
             return _categoryDal.GetList();
+        }
+
+        public void TransactionOperation()
+        {
+            TransactionOperations.Invoke(() =>
+            {
+                _categoryDal.Add(new Category { Name = "Laptop", Description = "Laptop" });
+                _categoryDal.Add(null);
+            });
         }
     }
 }

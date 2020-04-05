@@ -9,5 +9,6 @@ namespace MonolithicArchitecture.Business.Abstract
     {
         void Add(Category category);
         List<Category> GetList();
+        void TransactionOperation();
     }
 }

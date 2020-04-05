@@ -21,6 +21,7 @@ namespace MonolithicArchitecture.WebAPI.Controllers
 
         public IActionResult Index()
         {
+            _categoryManager.TransactionOperation();
             var categoryList = _categoryManager.GetList();
 
             return Ok(categoryList);
